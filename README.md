@@ -546,12 +546,11 @@ ers_what_is_the_best_advice_you/)
 * [Regex 101 by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 * [20 Developers to Follow on Twitter](https://codeburst.io/best-web-developers-to-follow-on-twitter-9318a3f6525a)
 
+
+---
+
 ❤️👨‍💻❤️ HAPPY CODING ❤️😇❤️
 
-<div>
-<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-PayPal: https://bit.ly/3QKknix
-</div>
+* Paypal: [Support on PayPal](https://bit.ly/3QKknix)
+* Author: [Coding Ranjith](https://www.linkedin.com/in/coding-ranjith-97b6ab238/)
 
-
- 
