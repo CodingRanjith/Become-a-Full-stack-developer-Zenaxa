@@ -2,7 +2,7 @@
 <img  height="100%"  src="https://i.ibb.co/rsGkVMb/0-cl7fc6pt1-MHj-IF4-K.png" />
 </div>
 
-<h1>Free resources for learning Full Stack Web Development</h1>
+<h1>500+ Free resources for learning Full Stack Web Development</h1>
 
 #### **Stay Ahead with Zenaxa Insights!**
 
@@ -258,6 +258,10 @@ now-JS) - Free, hosted on GitHub
 
 ### Learn React JS
 
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/DrQrjhD/1676544859495.jpg" />
+</div>
+
 * Official React [Docs](https://facebook.github.io/react/docs/hello-world.html)
 * Official React [Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
 * 3rd Party Tutorials
@@ -284,6 +288,11 @@ now-JS) - Free, hosted on GitHub
 
 ### Full Stack Tutorials
 
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/MZ7dk5h/full-stack-banner.jpg" />
+</div>
+
+
 * [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)
 * [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 * [Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
@@ -309,6 +318,11 @@ now-JS) - Free, hosted on GitHub
 ---
 ### Learn Node JS with Express
 
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/JRvYXCJ/1684628937431.png" />
+</div>
+
+
 * Official Node.js [Docs](https://nodejs.org/en/docs/)
 * [Express.js Docs](https://expressjs.com/en/4x/api.html)
 * [25 Node JS Tutorials](https://codeburst.io/25-node-js-tutorials-1db3b1da0260) - Learn Node JS by exploring these 25 free tutorials.
@@ -332,12 +346,22 @@ now-JS) - Free, hosted on GitHub
 ---
 ### Learn Python
 
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/Pc2tzgY/Anaconda-vs-Python-in-Software.jpg" />
+</div>
+
+
 * [15 Free e-books to learn Python](https://medium.com/@bmorelli25/15-free-ebooks-to-learn-python-c299943f9f2c)
 * [Programming Foundations with Python - Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 * [Designing RESTful APIs - Udacity](https://www.udacity.com/course/designing-restful-apis--ud388)
 
 ---
 ### Learn APIs
+
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/4gj0hyW/What-is-an-API.png" />
+</div>
+
 
 * Where to start with learning APIs [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5761ir/where_to_start_with_learning_how_to_use_apis/)
   * [What is an API? In English Please. (Medium)](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.vewp5i2n4)
@@ -350,6 +374,11 @@ now-JS) - Free, hosted on GitHub
 
 ---
 ### Learn Databases
+
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/Z6CkJ6f/1-0-Ln-IXs-DDfer6-srj3-VVy2-A.png" />
+</div>
+
 * [SQL vs NoSQL](https://www.digitalocean.com/community/tutorials/understanding-sql-and-nosql-databases-and-different-database-models)
 * [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) - SQL, DB-API, and More!
 * [MongoDB University](https://university.mongodb.com/) - Numerous classes on learning MongoDB
@@ -361,6 +390,11 @@ now-JS) - Free, hosted on GitHub
 
 ---
 ### Learn Authentication
+
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/4Y9tfGF/login-authentication.jpg" />
+</div>
+
 * [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
 * [Learn about JSON Web Tokens](https://jwt.io/introduction/)
 * [JWT Sample App Example](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
@@ -368,6 +402,11 @@ now-JS) - Free, hosted on GitHub
 * [Passwordless Authentication with React and Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.l1joiokr2)
 ---
 ### Learn Git
+
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/VYqmGVJ/1-Yj3-Hpcm-Eu-O7br-Krfrdh-OA.png" />
+</div>
+
 * Official [Tutorial](https://try.github.io/levels/1/challenges/1) - Learn Git in 15 Minutes
 * Official [Docs](https://git-scm.com/documentation)
 * Other Tuts:
@@ -420,6 +459,11 @@ now-JS) - Free, hosted on GitHub
 
 ---
 ### Am I Ready to be a Developer?
+
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/N9gcdZB/Software-Developer-Solutions-Architect-and-Software-Engineer.jpg" />
+</div>
+
 
 * Readiness
   * [Self taught front end devs... When did you know that you were "Job ready"?](https://www.reddit.com/r/learnprogramming/comments/59paoi/self_taught_front_end_devs_when_did_you_know_that/)
@@ -501,4 +545,13 @@ ers_what_is_the_best_advice_you/)
 * [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
 * [Regex 101 by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 * [20 Developers to Follow on Twitter](https://codeburst.io/best-web-developers-to-follow-on-twitter-9318a3f6525a)
+
+❤️👨‍💻❤️ HAPPY CODING ❤️😇❤️
+
+<div>
+<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
+PayPal: https://bit.ly/3QKknix
+</div>
+
+
  
