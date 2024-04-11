@@ -12,7 +12,7 @@ Discover the latest trends, helpful tutorials, and interesting articles in the w
 
 Get daily updates from Zenaxa's blog to stay informed and elevate your web development skills. Subscribe to our once-weekly newsletter for a direct delivery of curated insights!
 
-### [Subscribe To The Weekly Newsletter Here](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)
+### [Subscribe To The daily blog Here]()
 
 _Never more than one email per day. Easy to unsubscribe. Your information will **never** be shared._
 
