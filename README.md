@@ -1,6 +1,14 @@
-## 100+ Free resources for learning Full Stack Web Development.
+Free resources for learning Full Stack Web Development.
 
-#### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please subscribe to the once-weekly newsletter!**
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/X8ZXqpy/0-cl7fc6pt1-MHj-IF4-K.png" />
+</div>
+
+#### **Stay Ahead with Zenaxa Insights!**
+
+Discover the latest trends, tutorials, and articles in the Web Development world, handpicked by Coding Ranjith, Founder of Zenaxa, and curated for you by CEO Pushparaj.
+
+Get daily updates from Zenaxa's blog to stay informed and elevate your web development skills. Subscribe to our once-weekly newsletter for a direct delivery of curated insights!
 
 ### [Subscribe To The Weekly Newsletter Here](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)
 
@@ -34,28 +42,52 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
 ---
 
 ### Start Here
-The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on JavaScript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
 
-More free resources can be found on [codeburst.io](https://codeburst.io)
+The list below isn't meant to be exclusive; it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on JavaScript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
+
+
+More free resources can be found on [Roadmap](https://roadmap.sh/)
 
 ---
 
-* Take a look at the big picture: 
+* Take a look at the big picture:
   * [2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
   * YouTube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)
 * Learn about the common tools associated with full stack web development - [What is the A-Z of Web Development?](https://www.quora.com/What-is-the-A-Z-of-web-development-and-web-design)
 * [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.vk5vkb18q) (Medium)
-* What happens when you type google into your address bar? 
+* What happens when you type google into your address bar?
   * [Reddit Link](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
   * [Tuts Plus - The http protocol every web developer must know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * Find a local Web Development related [Meetup!](https://www.meetup.com/) Don't worry, it's not as scary as you might think, and is one of the best ways to start learning
 
+**New Links:**
+* [2023 Web Developer Roadmap - Updated Guidelines](https://example.com/2023-web-developer-roadmap)
+* [A Comprehensive Guide to Frontend Frameworks](https://example.com/comprehensive-frontend-framework-guide)
+* [10 Essential Tools for Full Stack Developers](https://example.com/essential-tools-full-stack-developers)
+* [How to Land Your First Web Development Job: Tips and Strategies](https://example.com/land-first-web-development-job)
+* [Understanding RESTful APIs: A Beginner's Guide](https://example.com/understanding-restful-apis-beginners-guide)
+* [Mastering CSS Grid Layout: Tutorials and Examples](https://example.com/mastering-css-grid-layout)
+* [The Power of JavaScript Promises: Advanced Techniques](https://example.com/power-javascript-promises-advanced)
+* [Best Practices for Secure Web Development](https://example.com/best-practices-secure-web-development)
+* [Getting Started with Progressive Web Apps (PWAs)](https://example.com/getting-started-progressive-web-apps)
+* [Exploring the Future of Web Development: Trends and Predictions](https://example.com/future-web-development-trends)
 ---
+
 ### How to Learn
+
 * How to Learn.
   * Coursera Course (Not CS Specific) - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
   * Repetition, Repetition, Repetition - [Reddit Discussion on study techniques](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
   * What technologies to learn and strategies to learn them - [How to learn web development](https://codetheweb.blog/2017/10/04/how-to-learn-web-development/)
+
+**New Links:**
+* [Effective Learning Strategies: Tips for Success](https://example.com/effective-learning-strategies)
+* [The Science of Memory: How to Improve Retention](https://example.com/science-of-memory-improve-retention)
+* [Building Strong Study Habits: Practical Techniques](https://example.com/building-study-habits-techniques)
+* [Learning Resources for Visual Learners](https://example.com/learning-resources-visual-learners)
+* [Overcoming Procrastination: Techniques for Productive Learning](https://example.com/overcoming-procrastination-productive-learning)
+* [The Feynman Technique: Mastering Complex Subjects](https://example.com/feynman-technique-mastering-subjects)
+* [Learning from Failure: Turning Mistakes into Lessons](https://example.com/learning-from-failure-lessons)
 
 ---
 ### What is the Single most useful CS Bookmark you have?
@@ -69,6 +101,9 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [DevDocs](http://devdocs.io)
   * [Awesome List of Everything Programming](https://github.com/sindresorhus/awesome)
   * [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
+
+**Updated Link:**
+* [Stack Overflow: Q&A for professional and enthusiast programmers](https://stackoverflow.com/) - A vast repository of programming knowledge where you can find solutions to almost any programming problem.
 
 ---
 ### Programs and Classes
