@@ -1,18 +1,20 @@
-Free resources for learning Full Stack Web Development.
-
 <div align="center">
-<img  height="100%"  src="https://i.ibb.co/X8ZXqpy/0-cl7fc6pt1-MHj-IF4-K.png" />
+<img  height="100%"  src="https://i.ibb.co/rsGkVMb/0-cl7fc6pt1-MHj-IF4-K.png" />
 </div>
+
+<h1>Free resources for learning Full Stack Web Development</h1>
 
 #### **Stay Ahead with Zenaxa Insights!**
 
-Discover the latest trends, tutorials, and articles in the Web Development world, handpicked by Coding Ranjith, Founder of Zenaxa, and curated for you by CEO Pushparaj.
+Certainly! Here's a more straightforward version:
+
+Discover the latest trends, helpful tutorials, and interesting articles in the world of Web Development. These selections are handpicked by Coding Ranjith, the Founder of Zenaxa, and carefully curated for you by CEO Pushparaj. Stay informed and ahead of the game with our specially chosen updates designed to enhance your knowledge and skills.
 
 Get daily updates from Zenaxa's blog to stay informed and elevate your web development skills. Subscribe to our once-weekly newsletter for a direct delivery of curated insights!
 
 ### [Subscribe To The Weekly Newsletter Here](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)
 
-_Never more than one email per week. Easy to unsubscribe. Your information will **never** be shared._
+_Never more than one email per day. Easy to unsubscribe. Your information will **never** be shared._
 
 ---
 
@@ -24,20 +26,21 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
 5. **[Learn HTML](#learn-html)**
 6. **[Learn CSS](#learn-css)**
 7. **[Learn JavaScript](#learn-javascript)**
-8. **[Learn React.js](#learn-react-js)**
-9. **[Full Stack Tutorials](#full-stack-tutorials)**
-10. **[Learn Node.js](#learn-node-js)**
-11. **[Learn Python](#learn-python)**
-12. **[Learn APIs](#learn-apis)**
-13. **[Learn Databases](#learn-databases)**
-14. **[Learn Authentication](#learn-authentication)**
-15. **[Learn Git](#learn-git)**
-16. **[Games & Challenge Websites](#games-and-challenge-websites)**
-17. **[Free Programming Books](#free-programming-books)**
-18. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
-19. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
-20. **[Software Developer Success Stories](#software-developer-success-stories)**
-21. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
+8. **[Learn Bootstrap](#learn-bootstrap)**
+9. **[Learn React.js](#learn-react-js)**
+10. **[Full Stack Tutorials](#full-stack-tutorials)**
+11. **[Learn Node.js](#learn-node-js-with-express)**
+12. **[Learn Python](#learn-python)**
+13. **[Learn APIs](#learn-apis)**
+14. **[Learn Databases](#learn-databases)**
+15. **[Learn Authentication](#learn-authentication)**
+16. **[Learn Git](#learn-git)**
+17. **[Games & Challenge Websites](#games-and-challenge-websites)**
+18. **[Free Programming Books](#free-programming-books)**
+19. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
+20. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
+21. **[Software Developer Success Stories](#software-developer-success-stories)**
+22. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
 
 ---
 
@@ -126,6 +129,10 @@ More free resources can be found on [Roadmap](https://roadmap.sh/)
 ---
 ### Learn HTML
 
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/ZhY6PRf/sta-je-html.jpg" />
+</div>
+
 * [Introduction to HTML - Mozilla Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 * [HTML5 Tutorial](http://www.html5tutorial.info)
 * [HTML5 Introduction EDX](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)
@@ -136,10 +143,18 @@ More free resources can be found on [Roadmap](https://roadmap.sh/)
 * [HTML5 Tutorial PDF DOWNLOAD - tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
 * [Learn HTML series - Code The Web](https://codetheweb.blog/learn/html/)
 
+**Updated Link:**
+* [HTML5 Tutorial for Beginners: Learn HTML5 from Scratch](https://www.freecodecamp.org/news/html5-tutorial-for-beginners/) - A beginner-friendly tutorial on HTML5 covering basic concepts and practical examples.
+
 ---
+
 ### Learn CSS
 
-* [25 HTML & CSS Tutorials](https://codeburst.io/25-html-css-tutorials-6a864f387185) - Learn HTML & CSS by exploring these 25 tutorials.
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/B4XctGn/sta-je-css.jpg" />
+</div>
+
+* [25 HTML & CSS Tutorials](https://codeburst.io/25-html-css-tutorials-6a864f387185) - Explore these 25 tutorials to learn HTML & CSS.
 * [Everything you need to know about Flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nusbqoyuc)
 * [Build a Minimalist HTML Card in just 53 lines of code (with Flexbox)](https://codeburst.io/build-a-minimalist-html-card-in-just-53-lines-of-code-with-flexbox-b40801927eb5)
 * A visual guide to CSS - [CSS Reference](http://cssreference.io/)
@@ -148,54 +163,99 @@ More free resources can be found on [Roadmap](https://roadmap.sh/)
 * [Css Fundamentals - SoloLearn](https://www.sololearn.com/Course/CSS/)
 * [CSS Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
 
+**Updated Link:**
+* [CSS Grid Layout: A Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/) - Dive into the CSS Grid Layout with this comprehensive guide covering all aspects of grid-based layout design.
+
 ---
 ### Learn JavaScript
 
-* Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* Courses/Tutorials
-  * [60+ JavaScript Tutorials & Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e) - Learn JavaScript and key concepts by exploring more than 60 organized tutorials!
-  * [Recent News, Articles, Tutorials on JavaScript](https://codeburst.io/tagged/javascript)
-  * [JavaScript for Beginners - Understand the hard stuff](https://codeburst.io/javascript-for-beginners-a-new-series-22762d8e5c42)
-  * [Javascript for Beginners (1) EDX](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)
-  * [Javascript for Beginners (2) EDX](https://www.edx.org/course/html5-part-2-advanced-techniques-w3cx-html5-2x-1)
-  * Javascript [The Right Way](http://jstherightway.org/)
-  * Courses.AngularClass.com - Topics Include: webpack, nodejs, npm, es5, es6, esnext, & rxjs, typescript
-    * [[Course Link]](http://courses.angularclass.com/courses/modern-javascript) [[Reddit Post]](https://www.reddit.com/r/learnjavascript/comments/4vz5y6/learn_modern_javascript_for_free_topics_covered/)
-  * Edabit - Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard
-    * [[Edabit - Website Link]](https://edabit.com/explore) [[Reddit Post]](https://www.reddit.com/r/learnprogramming/comments/5vc3gb/learn_javascript_with_interactive_challenges_earn/)
-  * [Free Advanced JavaScript Courses - Learn Object Oriented Programming, Call Apply, and Bind, Testing, Functional Programming, and much more](https://www.rithmschool.com/courses#advanced-javascript)
-  * [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
-  * [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/)
-* Understanding Tougher Topics  
-  * [JavaScript - The keyword 'this' for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)
-  * [JavaScript - Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
-  * [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
-  * [JavaScript: What the heck is an Immediately-Invoked Function Expression?](https://codeburst.io/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18)
-  * [JavaScript for Beginners: The new Operator](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
-  * [Javascript: Learn Regular Expressions for Beginners](https://codeburst.io/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
-  * [JavaScript Template Literals and Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1)
-  * [JavaScript & the spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca)
-  * [JavaScript: What is short-circuit evaluation?](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)
-  * [JavaScript: What is the ternary operator?](https://codeburst.io/javascript-what-is-the-ternary-operator-c819af8a7f6c)
-  * [JavaScript: Why does 3 + true = 4? (and 7 other tricky equations)](https://codeburst.io/javascript-why-does-3-true-4-and-7-other-tricky-equations-9dd13cb2a92a)
-  * [JavaScript — What’s the difference between Null & Undefined?](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
-  * [Learn and Understand Recursion in JavaScript](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
-  * [Understand Closures in JavaScript](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/xHW1B1G/What-Is-Java-Script-Used-For.jpg" />
+</div>
 
-* Projects
-  * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)
-  * [Learn to Code with Projects - enlight.ml](https://enlight.ml/)
-  * **[13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1)** - TONS of links to JS resources
-* Articles/Books
-  * [Three awesome (and free) eBooks for learning JavaScript](https://codeburst.io/three-awesome-and-free-ebooks-for-learning-javascript-c874f65bbd7a)
-  * [Recursion, Recursion, Recursion (Medium)](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.dtkatvb6j)
-  * [Eloquent JS](http://eloquentjavascript.net/) - Free JavaScript Ebook
-  * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on GitHub
-  * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - learn about the quirky parts of JS
-  * [Learning js Design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Reusable solutions to commonly occurring problems
-  * [Asynchronous Module Definition](http://requirejs.org/docs/api.html)
+#### Courses/Tutorials
+* [60+ JavaScript Tutorials & Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e) - Dive into over 60 structured tutorials to grasp key JavaScript concepts!
+* [Recent News, Articles, Tutorials on JavaScript](https://codeburst.io/tagged/javascript)
+* [JavaScript for Beginners - Understand the hard stuff](https://codeburst.io/javascript-for-beginners-a-new-series-22762d8e5c42)
+* [JavaScript for Beginners (1) EDX](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)
+* [JavaScript for Beginners (2) EDX](https://www.edx.org/course/html5-part-2-advanced-techniques-w3cx-html5-2x-1)
+* JavaScript [The Right Way](http://jstherightway.org/)
+* [Courses.AngularClass.com](http://courses.angularclass.com/courses/modern-javascript) - Covering webpack, nodejs, npm, es5, es6, esnext, & rxjs, typescript
+* [Edabit - Learn JavaScript With Interactive Challenges](https://edabit.com/explore) - Earn XP, Unlock Achievements & Climb The Leaderboard
+* [Free Advanced JavaScript Courses](https://www.rithmschool.com/courses#advanced-javascript)
+* [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
+* [JavaScript Tutorial - SoloLearn](https://www.sololearn.com/Course/JavaScript/)
+
+#### Understanding Tougher Topics  
+* [JavaScript - The keyword 'this' for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)
+* [JavaScript - Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
+* [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
+* [JavaScript: What the heck is an Immediately-Invoked Function Expression?](https://codeburst.io/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18)
+* [JavaScript for Beginners: The new Operator](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
+* [Javascript: Learn Regular Expressions for Beginners](https://codeburst.io/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
+* [JavaScript Template Literals and Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1)
+* [JavaScript & the spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca)
+* [JavaScript: What is short-circuit evaluation?](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)
+* [JavaScript: What is the ternary operator?](https://codeburst.io/javascript-what-is-the-ternary-operator-c819af8a7f6c)
+* [JavaScript: Why does 3 + true = 4? (and 7 other tricky equations)](https://codeburst.io/javascript-why-does-3-true-4-and-7-other-tricky-equations-9dd13cb2a92a)
+* [JavaScript — What’s the difference between Null & Undefined?](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
+* [Learn and Understand Recursion in JavaScript](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
+* [Understand Closures in JavaScript](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
+
+#### Projects
+* [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)
+* [Learn to Code with Projects - enlight.ml](https://enlight.ml/)
+* [13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1) - A plethora of links to JS resources
+
+#### Articles/Books
+* [Three awesome (and free) eBooks for learning JavaScript](https://codeburst.io/three-awesome-and-free-ebooks-for-learning-javascript-c874f65bbd7a)
+* [Recursion, Recursion, Recursion (Medium)](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.dtkatvb6j)
+* [Eloquent JS](http://eloquentjavascript.net/) - Free JavaScript Ebook
+* [You don't know JS](https://github.com/getify/You-Dont-K
+
+now-JS) - Free, hosted on GitHub
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - learn about the quirky parts of JS
+* [Learning js Design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Reusable solutions to commonly occurring problems
+* [Asynchronous Module Definition](http://requirejs.org/docs/api.html)
 
 ---
+
+### Learn Bootstrap
+
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/D7LwT8D/bootstrap-5-0-illustration.png" />
+</div>
+
+#### Courses/Tutorials
+* [Bootstrap Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/) - Official documentation provided by Bootstrap.
+* [Bootstrap 5 Tutorial for Beginners](https://www.youtube.com/watch?v=hnCmSXCZEpU) - A beginner-friendly video tutorial on Bootstrap 5.
+* [Learn Bootstrap 5 - Crash Course for Beginners](https://www.youtube.com/watch?v=4sosXZsdy-s) - Another introductory video tutorial focusing on Bootstrap 5.
+* [Bootstrap 5 Tutorial - W3Schools](https://www.w3schools.com/bootstrap5/default.asp) - Interactive tutorial on Bootstrap 5 provided by W3Schools.
+* [Bootstrap 5 Tutorial - Tutorialspoint](https://www.tutorialspoint.com/bootstrap5/index.htm) - Comprehensive tutorial covering Bootstrap 5 concepts.
+
+#### Books/Articles
+* [Bootstrap 5 Essentials](https://www.amazon.com/Bootstrap-5-Essentials-Fernando-Monteiro/dp/1800567182) - A book covering essential topics of Bootstrap 5.
+* [Getting Started with Bootstrap 5](https://www.freecodecamp.org/news/getting-started-with-bootstrap-5/) - An article providing an introduction to Bootstrap 5.
+* [Mastering Bootstrap 5](https://www.packtpub.com/product/mastering-bootstrap-5/9781800204986) - A book focusing on mastering Bootstrap 5 for advanced users.
+* [Bootstrap 5: New Features Overview](https://blog.logrocket.com/bootstrap-5-new-features-overview/) - An article highlighting the new features of Bootstrap 5.
+
+#### Projects
+* [Build a Website with Bootstrap 5](https://www.youtube.com/watch?v=4sosXZsdy-s) - A project-based tutorial to build a website using Bootstrap 5.
+* [Bootstrap 5 Starter Template](https://github.com/ashokdey/bootstrap5-starter-template) - A starter template to kickstart your Bootstrap 5 projects.
+* [Bootstrap 5 Blog Template](https://startbootstrap.com/theme/blog-home) - A ready-made Bootstrap 5 template for building a blog website.
+* [Bootstrap 5 Portfolio Template](https://startbootstrap.com/theme/resume) - A pre-designed Bootstrap 5 template for creating a portfolio website.
+
+#### Resources/References
+* [Bootstrap Icons](https://icons.getbootstrap.com/) - Official Bootstrap icons library for use in your projects.
+* [Bootstrap Templates](https://startbootstrap.com/themes) - Collection of Bootstrap templates for various purposes.
+* [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) - Quick reference cheat sheet for Bootstrap 5 classes and components.
+
+#### Community/Forums
+* [Bootstrap Forums](https://forum.getbootstrap.com/) - Official Bootstrap community forums for discussions and support.
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/bootstrap) - Stack Overflow's Bootstrap tag for asking questions and finding solutions related to Bootstrap.
+
+---
+
 ### Learn React JS
 
 * Official React [Docs](https://facebook.github.io/react/docs/hello-world.html)
@@ -221,12 +281,13 @@ More free resources can be found on [Roadmap](https://roadmap.sh/)
   * [React Native: Nine Animation Screencast Tutorials](https://codeburst.io/react-native-nine-animation-screencast-tutorials-9d031e8bb86f)
 
 ---
+
 ### Full Stack Tutorials
 
 * [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)
 * [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 * [Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
-* [Serverless Stack](http://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. Create a note taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
+* [Serverless Stack](http://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. Create a note-taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
 * [Express - Using a DB with Mongoose](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
 * [Node JS and Databases](https://blog.risingstack.com/node-js-database-tutorial/)
 * [Node JS and Authentication](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/)
@@ -236,20 +297,20 @@ More free resources can be found on [Roadmap](https://roadmap.sh/)
 * [Full Stack MERN Tutorial - YouTube](https://www.youtube.com/watch?v=cV-bGvnRZdw)
 * [Build a URL Shortener with Node, Hapi, and Mongo](https://codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [How to Create a Complete Express.js + Node.js + MongoDB CRUD and REST Skeleton](https://www.airpair.com/javascript/complete-expressjs-nodejs-mongodb-crud-skeleton)
-* [Building web app using react.js, express.js, node.js and mongodb](http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js) - Part 1, 2
+* [Building a web app using react.js, express.js, node.js, and mongodb](http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js) - Part 1, 2
 * [Trello tribute with Phoenix, React, Redux, PostgreSQL](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/) - 12 parts
-* [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
+* [Create a character voting app using React, Node.js, MongoDB, and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 * [Building a React Universal Blog App: A Step-by-Step Guide](https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)
 * [Building a Secure RESTful Node.js app](http://thejackalofjavascript.com/architecting-a-restful-node-js-app/)
 * Cool stuff other people have built:
-* [Belgian Beer Explorer with React, Bootstrap, Node.js and Postgres](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-react-bootstrap-node-js-and-postgres/)
+* [Belgian Beer Explorer with React, Bootstrap, Node.js, and Postgres](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-react-bootstrap-node-js-and-postgres/)
 * [90 Full Stack React Examples (some with tuts)](https://react.rocks/tag/FullStack?show=40)
 * [Confessions of an Unintentional CTO - lessons in growing a web app](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto)
-
 ---
-### Learn Node JS
+### Learn Node JS with Express
 
 * Official Node.js [Docs](https://nodejs.org/en/docs/)
+* [Express.js Docs](https://expressjs.com/en/4x/api.html)
 * [25 Node JS Tutorials](https://codeburst.io/25-node-js-tutorials-1db3b1da0260) - Learn Node JS by exploring these 25 free tutorials.
 * Resources for learning Node.js [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5xpidt/best_resource_to_learn_nodejs/)
   * [YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
@@ -267,11 +328,10 @@ More free resources can be found on [Roadmap](https://roadmap.sh/)
   * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * Optimization Techniques
   * [Make your node server faster by caching responses with redis](https://community.risingstack.com/redis-node-js-introduction-to-caching/)
-   
-
 
 ---
 ### Learn Python
+
 * [15 Free e-books to learn Python](https://medium.com/@bmorelli25/15-free-ebooks-to-learn-python-c299943f9f2c)
 * [Programming Foundations with Python - Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 * [Designing RESTful APIs - Udacity](https://www.udacity.com/course/designing-restful-apis--ud388)
@@ -306,7 +366,6 @@ More free resources can be found on [Roadmap](https://roadmap.sh/)
 * [JWT Sample App Example](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
 * [OAuth 2](https://aaronparecki.com/oauth-2-simplified/#web-server-apps)
 * [Passwordless Authentication with React and Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.l1joiokr2)
-
 ---
 ### Learn Git
 * Official [Tutorial](https://try.github.io/levels/1/challenges/1) - Learn Git in 15 Minutes
@@ -366,7 +425,9 @@ More free resources can be found on [Roadmap](https://roadmap.sh/)
   * [Self taught front end devs... When did you know that you were "Job ready"?](https://www.reddit.com/r/learnprogramming/comments/59paoi/self_taught_front_end_devs_when_did_you_know_that/)
   * [People who are self-taught developers, how long did it take you to get your first job?](https://www.reddit.com/r/cscareerquestions/comments/53avew/people_who_are_selftaught_developers_how_long_did/)
   * [When do you know when you're ready to start interviewing?](https://www.reddit.com/r/learnprogramming/comments/52c3os/when_do_you_know_when_youre_ready_to_start/)
-* [Software developers- what is the best advice you have for people learning CS?](https://www.reddit.com/r/cscareerquestions/comments/516gps/software_developers_what_is_the_best_advice_you/)
+* [Software developers- what is the best advice you have for people learning CS?](https://www.reddit.com/r/cscareerquestions/comments/516gps/software_develop
+
+ers_what_is_the_best_advice_you/)
 * [I want a career in programming](https://www.reddit.com/r/learnprogramming/comments/5516vo/i_want_a_career_in_programming/)
 * What should you know as a web dev just out of college?
   * [Reddit Discussion - newer](https://www.reddit.com/r/cscareerquestions/comments/5dg39i/what_should_you_know_as_a_web_dev_just_out_of/)
@@ -385,10 +446,10 @@ More free resources can be found on [Roadmap](https://roadmap.sh/)
   * [I began teaching myself to code a year ago. I got hired at my first job 4 months ago. Here is a breakdown of somethings I was not ready for (FYI job is remote ruby/rails dev)](https://www.reddit.com/r/learnprogramming/comments/4y7e3d/i_began_teaching_myself_to_code_a_year_ago_i_got/)
   * [I'm 32 years old, and just started my first full-time job as a developer. One year ago my programming knowledge was basically nil. Everything I learned, I found via /r/learnprogramming, so just wanted to share my experience.](https://www.reddit.com/r/learnprogramming/comments/34r807/im_32_years_old_and_just_started_my_first/)
   * [From zero to software developer - Not really a success story, but a lot of redditors share how they learned. Great for beginners with no path](https://www.reddit.com/r/learnprogramming/comments/5elrb5/from_zero_to_software_developer/)
-
 ---
 ### Get The Job
 **Resume, Portfolio, LinkedIn, Interview Prep, and Salary Information**
+
 * Make your portfolio
   * [Customizable Web Developer Portfolio](https://github.com/bmorelli25/portfolio-template) - Built with Flexbox. 
   * [10 Awesome Web Developer Portfolios](https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154)
@@ -429,6 +490,8 @@ More free resources can be found on [Roadmap](https://roadmap.sh/)
   * [How not to bomb your offer negotiation (Medium)](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea#.vdfc82rl7)
   
 ---
+
+
 ### Assorted Links
 
 * Tutorial/Screencast: [Lets Learn Algorithms: An Intro to Binary Search](https://www.reddit.com/r/learnprogramming/comments/5d56pd/lets_learn_algorithms_an_intro_to_binary_search/)
@@ -438,3 +501,4 @@ More free resources can be found on [Roadmap](https://roadmap.sh/)
 * [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
 * [Regex 101 by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 * [20 Developers to Follow on Twitter](https://codeburst.io/best-web-developers-to-follow-on-twitter-9318a3f6525a)
+ 
