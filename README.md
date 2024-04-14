@@ -8,7 +8,7 @@
 
 Certainly! Here's a more straightforward version:
 
-Discover the latest trends, helpful tutorials, and interesting articles in the world of Web Development. These selections are handpicked by Coding Ranjith, the Founder of Zenaxa, and carefully curated for you by CEO Pushparaj. Stay informed and ahead of the game with our specially chosen updates designed to enhance your knowledge and skills.
+Discover the latest trends, helpful tutorials, and interesting articles in the world of Web Development. These selections are handpicked by Coding Ranjith, the Founder of Zenaxa, and carefully curated for you by CEO Pushparaj and CO-CEO Sanjai. Stay informed and ahead of the game with our specially chosen updates designed to enhance your knowledge and skills.
 
 Get daily updates from Zenaxa's blog to stay informed and elevate your web development skills. Subscribe to our once-weekly newsletter for a direct delivery of curated insights!
 
